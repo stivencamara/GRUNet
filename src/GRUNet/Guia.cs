@@ -118,7 +118,7 @@ namespace GRUNet
 
         private void ValidaSegmento()
         {
-            Segmento = FabricaSegmento.Segmento(Tipo, Leiaute, Unidade, Contribuinte, Valor);
+            Segmento = SegmentoFabrica.Segmento(Tipo, Leiaute, Unidade, Contribuinte, Valor);
             Segmento.Valida();
         }
 

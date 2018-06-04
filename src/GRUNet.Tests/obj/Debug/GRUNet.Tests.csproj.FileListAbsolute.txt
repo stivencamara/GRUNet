@@ -1,0 +1,9 @@
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\modelo.html
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\GRUNet.Tests.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\GRUNet.Tests.pdb
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\GRUNet.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\bin\Debug\GRUNet.pdb
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\obj\Debug\GRUNet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\obj\Debug\GRUNet.Tests.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet.Tests\obj\Debug\GRUNet.Tests.pdb

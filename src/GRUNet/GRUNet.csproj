@@ -47,7 +47,7 @@
     <Compile Include="C2of5i.cs" />
     <Compile Include="Competencia.cs" />
     <Compile Include="Endereco.cs" />
-    <Compile Include="FabricaGuia.cs" />
+    <Compile Include="GRU.cs" />
     <Compile Include="Html.cs" />
     <Compile Include="IGuia.cs" />
     <Compile Include="Modulo11.cs" />

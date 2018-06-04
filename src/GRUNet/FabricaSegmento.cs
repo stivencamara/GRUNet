@@ -2,7 +2,7 @@
 
 namespace GRUNet
 {
-    public class FabricaSegmento
+    public class SegmentoFabrica
     {
         public static ISegmento Segmento(TipoArrecadacao tipo, Leiaute leiaute, Unidade unidade, Contribuinte contribuinte, decimal valor)
         {

@@ -1,0 +1,6 @@
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\bin\Debug\modelo.html
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\bin\Debug\GRUNet.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\bin\Debug\GRUNet.pdb
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\obj\Debug\GRUNet.csprojResolveAssemblyReference.cache
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\obj\Debug\GRUNet.dll
+C:\Users\stiven.camara\Source\Repos\GRUNet\src\GRUNet\obj\Debug\GRUNet.pdb

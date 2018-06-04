@@ -17,7 +17,7 @@ namespace GRUNet.Demo
 
             var contribuinte = new Contribuinte(TipoContribuinte.CPF, "920.742.865-20", "Stiven Fabiano da Câmara", enderecoContribuinte);
 
-            var guia = FabricaGuia.GRUSimples(Leiaute.Segmento5, cliente, contribuinte, 120);
+            var guia = GRU.Simples(Leiaute.Segmento5, cliente, contribuinte, 120);
 
             guia.Aviso = "SR. CONTRIBUINTE: ESTA GUIA NÃO PODERÁ SER LIQUIDADA COM CHEQUE";
             guia.Instrucoes.Add("SR. CAIXA: NÃO RECEBER EM CHEQUE");
